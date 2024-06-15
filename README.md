@@ -44,4 +44,25 @@ I can take this idea from FutureReadyTalent Internship who gaves the opportunity
                                 2. Web App Service & 
                                 3. Azure Static Web Apps
 
+**Project Screenshots:**
+
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/0eed1bbf-a789-4780-8192-1518651d1224)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/b6023721-4a3c-4c5b-975a-ddc1c10ac741)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/e9f64647-1594-4d40-ba10-a80645b3e639)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/64f01ae2-c876-47cd-ba37-67ac818feb50)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/433fdcf6-ac2c-41dd-bb8d-b21adba50211)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/a964408a-0ad5-46d5-a7da-78da9152f720)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/f689b5b7-4860-4a22-b57c-2f927a16dbf0)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/1a15f013-b21b-4fc6-a5f9-6a373264a528)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/c130da59-a1ac-4de4-9a05-be40e8d25491)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/14f14a90-8a7c-4274-83be-273c8b99df5a)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/904832f4-63b2-4392-8133-5199b9b0c6e2)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/fad5cd5f-b53c-467e-b094-55d757323360)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/e5f42f52-ee57-47d8-9815-42cb9c2087d6)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/3f6ee00b-f2ab-4e64-a5ab-beeb92584017)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/b47bc090-e1e4-477e-986e-2ee42650f2aa)
+![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/3d06a974-3514-4322-89ea-24a260dc55d5)
+
+                               
+
 **A BIG Thankyou GitHub, Microsoft Azure, NASSCOM, FutureSkills Prime, EY, Monster for given me this wonderful opportunity.**
