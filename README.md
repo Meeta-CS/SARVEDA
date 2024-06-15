@@ -38,6 +38,19 @@ The twpo m=ajor factors in which we are working:
 
 I can take this idea from FutureReadyTalent Internship who gaves the opportunity to learn and gain many skills through this program. Its give me a platform to explore new technologies. So, I am building a platform or a website where every student can learn any skill like technical field, musicians, about agriculture and more. It has a home page, about us page, course page, learning path, and contact us page.
 
+**Deployment steps followed :**
+
+1.Create a remote pepository on Github.
+
+2.Clone the repository With the repository created in GitHub account, clone the project to your local machine using the git command from VS Code. git clone.
+
+3.Push the local Project repository to remote github repository using git commands.
+
+4.Enabled Github Pages for the project Repo.
+
+5.Create a static web app on Azure Cloud Portal. Create New resource group for project and Select Azure for Students Subscription. Select Deployment Details as Github. Select Repository and Branch of Repository. Review and Create.
+
+6.For Github Actions to finish Deployment final Url : **https://dbfile.azurewebsites.net/**
 
 
 **Primary Azure Technology:**   1.App Services
