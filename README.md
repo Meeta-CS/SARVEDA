@@ -18,6 +18,8 @@ This is project done by **Meenakshi Sain**i as the final project under Microsoft
 
 **Project DEMO link:**    
 
+
+
 **Problem Statement/Opportunity:**
 
 The major problem is people have no work and they are unemployed. So this platform for learners with an opportunity to learn the in-demand technology skills and work, courses for free so they will read and learn them. It solves the problem of unemployment because after learning the skills they open their own work and do something for them and others.
