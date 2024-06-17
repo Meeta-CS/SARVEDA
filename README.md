@@ -1,4 +1,4 @@
-# SARVEDA
+# SARVEDA (Ed-Tech) Project
 **SRAVEDA** is a **One-Stop Solution** in career building by educating a person from there school until they get the job.
 The aim of this project is develop a system which can perform a major role in the Educational Sector by providing the in-demand technology skills courses and its freely accessible for everyone.
 
@@ -17,6 +17,12 @@ This is project done by **Meenakshi Sain**i as the final project under Microsoft
 **Project Azure URL:**    **https://dbfile.azurewebsites.net/**
 
 **Project DEMO Video link:**   **https://youtu.be/0_XdXENtttA**
+
+**Project (I participate in the Blogathon):**  **https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf**
+
+**Project Blog:**   **https://dev.to/meetamotherfds/education-technology-ece**
+
+**MyPrevious Github Acoount:**  https://github.com/Meeta-motherfds 
 
 I crerated this website last year by using MS Azure that time I wasc unable to submit my project but this time, I submitted my SARVEDA project based on educational technology.
 
