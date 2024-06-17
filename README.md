@@ -38,7 +38,7 @@ The problem which we are forgetting is divided into 4 categories:
 
 **Project Description:**
 
-The twpo m=ajor factors in which we are working:
+The two major factors in which we are working:
 
 1. **Pricing:** To reduce the pricing as amuch as possible so it can benefit a wast number of students.
 2. **One-Stop Solution:**  We want to creat a platform there any student can get education starting from till the time they are onboard.
